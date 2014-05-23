@@ -3,7 +3,7 @@
 Plugin Name: Media Grid
 Plugin URI: http://wordpress.org/plugins/media-grid/
 Description: A grid view for the WordPress Media Library.
-Version: 0.6
+Version: 0.7
 Author: The Media Grid Team
 */
 
